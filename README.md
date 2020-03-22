@@ -20,9 +20,9 @@ Resources related to COVID-19, disclaimer of this app, and References used throu
   
   
 ## Member contribution
-Synthia: United States section  
-Jialan: Trends section and active cases by country map in World section  
-Arthur: Rest of World section  
-Wen: Sidebar, Country section and Resources and Disclaimer section  
+Ran Sui: United States section  
+Jialan Ma: Trends section and active cases by country map in World section  
+Yinghe Sun: Rest of World section  
+Wen Shi: Sidebar, Country section and Resources and Disclaimer section  
 
 ## Access to the data ??????
