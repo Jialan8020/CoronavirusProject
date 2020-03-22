@@ -25,4 +25,7 @@ Jialan Ma: Trends section and active cases by country map in World section
 Yinghe Sun: Rest of World section  
 Wen Shi: Sidebar, Country section and Resources and Disclaimer section  
 
-## Access to the data ??????
+## Access to the data
+All case numbers reported in this app (total and active) are from: [https://www.worldometers.info/coronavirus/](https://www.worldometers.info/coronavirus/)  
+Longitude and Latitude for each country: [https://developers.google.com/public-data/docs/canonical/countries_csv](https://developers.google.com/public-data/docs/canonical/countries_csv)  
+
