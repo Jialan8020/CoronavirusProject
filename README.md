@@ -30,3 +30,4 @@ All case numbers reported in this app (total and active) are from: [https://www.
 Longitude and Latitude for each country: [https://developers.google.com/public-data/docs/canonical/countries_csv](https://developers.google.com/public-data/docs/canonical/countries_csv)  
 Trend plot used data from: [https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)
 
+The data sources include data of total confirmed cases, total deaths and total active cases by country and by state in the US. The daily-series of worldwide confirmed cases and deaths are also provided in the sources listed above. As a result, the data is correctly employed to our purpose.
