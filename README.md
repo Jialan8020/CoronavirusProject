@@ -29,3 +29,4 @@ Wen Shi: Sidebar, Country section and Resources and Disclaimer section
 All case numbers reported in this app (total and active) are from: [https://www.worldometers.info/coronavirus/](https://www.worldometers.info/coronavirus/)  
 Longitude and Latitude for each country: [https://developers.google.com/public-data/docs/canonical/countries_csv](https://developers.google.com/public-data/docs/canonical/countries_csv)  
 
+The data sources include data of total confirmed cases, total deaths and total active cases by country and by state in the US. The daily-series of worldwide confirmed cases and deaths are also provided in the sources listed above. As a result, the data is correctly employed to our purpose.
