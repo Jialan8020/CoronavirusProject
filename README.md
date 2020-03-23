@@ -10,7 +10,7 @@ The sidebar displays when the data in the app was last updated, and countries wi
 ### --World section
 The number of total cases, total deaths and total recovered around the world; total cases shown by country map and active cases shown by country map. For the map reflecting total confirmed cases, the size of the bubble is proportional the number of cases. Users could click on the bubbles to show the name of the country and the corresponding total confirmed cases. For the active cases by country map, the relevant infromation (region name and its respective number of active cases) will be displayed when the mouse cursor is placed on countries within the map.
 ### --Trends section
-Line plot with markers showing worldwide total confirmed cases by date, and worldwide total deaths by date.
+Line plot with markers showing worldwide total confirmed cases by date, and worldwide total deaths by date. Moving the mouse cursor to a marker shows the date and number of that marker.
 ### --Country section
 List of countries and their corresponding COVID-19 statistics of the day.
 ### --United States section
