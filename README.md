@@ -8,15 +8,15 @@ This app displays COVID-19 related information.
 ### --Sidebar
 The sidebar displays when the data in the app was last updated, and countries with travel restrictions to the US. Users are able to slide the sidebar up and down for information.
 ### --World section
-Total cases, total deaths and total recovered around the world, a total cases by country map and active cases by country map. For the map reflecting total diagnosed cases, the size of the circle reflects the number of cases. Users could click on them for the name of the country and total diagnosed cases within it. For the active cases by country map, the relevant infromation will be displayed when the mouse cursor is placed on countries within the map.
+The number of total cases, total deaths and total recovered around the world; total cases shown by country map and active cases shown by country map. For the map reflecting total confirmed cases, the size of the bubble is proportional the number of cases. Users could click on the bubbles to show the name of the country and the corresponding total confirmed cases. For the active cases by country map, the relevant infromation (region name and its respective number of active cases) will be displayed when the mouse cursor is placed on countries within the map.
 ### --Trends section
-Worldwide total confirmed cases by date trend, and worldwide total total deaths by date trend. When placing the mouse on some point on the curve, it will show the date and the number of confirmed/death cases.
+Line plot with markers showing worldwide total confirmed cases by date, and worldwide total deaths by date.
 ### --Country section
-List of countries and corresponding statistics of the day.
+List of countries and their corresponding COVID-19 statistics of the day.
 ### --United States section
-Total confirmed cases by states. When placing the mouse on the map, it will show the state where it points and the number of cases.
+Total confirmed cases by states in the United States. When the mouse is placed on a state, the map will show the state name and the number of cases.
 ### --Resources and Disclaimer section
-Resources related to COVID-19, disclaimer of this app, and References used throughout the project.
+Resources used related to COVID-19, disclaimer of this app, and References used throughout the project.
   
   
 ## Member contribution
@@ -28,4 +28,5 @@ Wen Shi: Sidebar, Country section and Resources and Disclaimer section
 ## Access to the data
 All case numbers reported in this app (total and active) are from: [https://www.worldometers.info/coronavirus/](https://www.worldometers.info/coronavirus/)  
 Longitude and Latitude for each country: [https://developers.google.com/public-data/docs/canonical/countries_csv](https://developers.google.com/public-data/docs/canonical/countries_csv)  
+Trend plot used data from: [https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)
 
