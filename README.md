@@ -8,7 +8,7 @@ This app displays COVID-19 related information.
 ### --Sidebar
 The sidebar displays when the data in the app was last updated, and countries with travel restrictions to the US.
 ### --World section
-Total cases, total deaths and total recovered around the world, a total cases by country map and a active cases by country map.
+Total cases, total deaths and total recovered around the world, a total cases by country map and active cases by country map.
 ### --Trends section
 Worldwide total confirmed cases by date trend, and worldwide total total deaths by date trend.
 ### --Country section
